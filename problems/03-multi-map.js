@@ -23,7 +23,6 @@ console.log(result3); // hi!!!!!
 
 let multiMap = function ()
 
-};
 
 
 
